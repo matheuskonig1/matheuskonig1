@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🥝 Experiências profissionais: <strong> Customer Success na Kiwify </strong>
+  🥝 Experiências profissionais: <strong> Suporte Técnico na Kiwify </strong>
 </p>
 
 <p align="left">
