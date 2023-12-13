@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, tudo bem? Eu sou o <strong>Matheus Konig</strong>.<br>
-  Estou aprendendendo a programar.
+  Trabalho como Product Owner na Kiwify. 
 </p>
 
 <p align="left">
@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  🥝 Experiências profissionais: <strong> Suporte Técnico na Kiwify </strong>
+  🥝 Experiências profissionais: <strong> Product Owner na Kiwify </strong>
 </p>
 
 <p align="left">
-  💻 O que está estudando atualmente: <strong> HTML, CSS e JavaScript. </strong>
+  💻 O que está estudando atualmente: <strong> Vue.JS e Tailwind </strong>
 </p>
 
 <p align="left">
