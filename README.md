@@ -6,10 +6,6 @@
 </p>
 
 <p align="left">
-  🎸 Hobbies: <strong> Filmes e Música </strong>
-</p>
-
-<p align="left">
   💼 Formação na Growdev: <strong>Starter Full Stack Web Developer</strong>
 </p>
 
