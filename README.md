@@ -6,7 +6,8 @@
 </p>
 
 <p align="left">
-  💼 Formação na Growdev: <strong>Starter Full Stack Web Developer</strong>
+  💼 Formação na Growdev: <strong> Starter Full Stack Web Developer </strong>
+  💼 Graduação: <strong> Análise e Desenvolvimento de Sistemas </strong>
 </p>
 
 <p align="left">
