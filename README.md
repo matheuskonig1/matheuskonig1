@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, tudo bem? Eu sou o <strong>Matheus Konig</strong>.<br>
-  Trabalho como Product Owner na Kiwify. 
+  Trabalho como Product Manager. 
 </p>
 
 <p align="left">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="left">
-  🥝 Experiências profissionais: <strong> Product Owner na Kiwify </strong>
+  🥝 Experiências profissionais: <strong> Product Manager na Kiwify </strong>
 </p>
