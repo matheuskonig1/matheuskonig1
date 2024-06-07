@@ -11,7 +11,9 @@
 </p>
 
 <p align="left">
-  🥝 Experiências profissionais: <br> 
-  -> Product Manager na Kiwify
-  -> Desenvolvedor PHP na Bridge Agência Digital
+  🥝 Experiências profissionais: <br>
+  <ul>
+  <li> Dez. 2021 -> Mai. 2024: Product Manager na Kiwify </li>
+  <li> Fev. 2020 -> Dez. 2021: Desenvolver PHP na Bridge Agência Digital </li>
+  </ul>
 </p>
