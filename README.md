@@ -11,5 +11,7 @@
 </p>
 
 <p align="left">
-  🥝 Experiências profissionais: <strong> Product Manager na Kiwify </strong>
+  🥝 Experiências profissionais: <br> 
+  -> Product Manager na Kiwify
+  -> Desenvolvedor PHP na Bridge Agência Digital
 </p>
